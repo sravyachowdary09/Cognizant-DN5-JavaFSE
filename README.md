@@ -12,3 +12,7 @@
 3. Exercise 2 - E-commerce Platform Search Function
 4. Exercise 7 - Financial Forecasting
 
+### PL/SQL Exercises
+
+5. Exercise 1 - Control Structures
+6. Exercise 3 - Stored Procedures
